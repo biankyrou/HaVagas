@@ -14,4 +14,26 @@
     <string name="feminino">Feminino</string>
     <string name="data_de_nascimento">Data de nascimento:</string>
     <string name="selecione_data_de_nascimento">Selecione a data de nascimento</string>
+    <string name="formacao">Formação:</string>
+    <string-array name="formacoes">
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+    <string name="ano_de_formacao">Ano de formação:</string>
+    <string name="informe_o_ano_formatura">Informe o ano de formatura</string>
+    <string name="ano_de_conclusao">Ano de conclusão:</string>
+    <string name="informe_o_ano_de_conclusao">Informe o ano de conclusão</string>
+    <string name="instituicao">Instituição de ensino:</string>
+    <string name="informe_o_nome_da_instituicao">Informe o nome da Instituição de ensino</string>
+    <string name="titulo_monografia">Titulo da monografia:</string>
+    <string name="informe_o_titulo_da_sua_monografia">Informe o titulo da sua monografia</string>
+    <string name="orientador">Orientador:</string>
+    <string name="informe_o_nome_do_seu_orientador">Informe o nome do seu orientador</string>
+
+
+
 </resources>
