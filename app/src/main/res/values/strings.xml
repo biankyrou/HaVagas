@@ -2,4 +2,9 @@
     <string name="app_name">HaVagas</string>
     <string name="ha_vagas">Há Vagas</string>
     <string name="nome_completo">Nome Completo:</string>
+    <string name="email">Email:</string>
+    <string name="ingressar_emails_com_oportunidades">Deseja receber e-mails com atualizações de oportunidades?</string>
+    <string name="telefone">Telefone:</string>
+    <string name="comercial">Comercial</string>
+    <string name="residencial">Residencial</string>
 </resources>
