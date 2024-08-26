@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HaVagas</string>
+    <string name="ha_vagas">Há Vagas</string>
+    <string name="nome_completo">Nome Completo:</string>
 </resources>
