@@ -96,6 +96,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/emailCb" />
 
+        <EditText
+            android:id="@+id/inputTelefoneEt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:ems="10"
+            android:hint="@string/ex_16_99155_9895"
+            android:inputType="phone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/telefoneTv" />
+
     <RadioGroup
         android:id="@+id/telefoneRadioGroup"
         android:layout_width="0dp"
@@ -106,7 +119,7 @@
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/telefoneTv">
+        app:layout_constraintTop_toBottomOf="@+id/inputTelefoneEt">
 
         <RadioButton
             android:id="@+id/comercialRb"

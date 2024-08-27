@@ -8,7 +8,7 @@
     <string name="comercial">Comercial</string>
     <string name="residencial">Residencial</string>
     <string name="adicionar_telefone_celular">Deseja adicionar telefone celular?</string>
-    <string name="ex_16_99885_0109">(16)99885-0109</string>
+    <string name="ex_16_99885_0109">(16) 99885-0109</string>
     <string name="sexo">Sexo:</string>
     <string name="masculino">Masculino</string>
     <string name="feminino">Feminino</string>
@@ -37,6 +37,5 @@
     <string name="informe_vagas_de_interesse">Digite as vagas de interesse aqui</string>
     <string name="salvar">Salvar</string>
     <string name="limpar">Limpar</string>
-
-
+    <string name="ex_16_99155_9895">(16) 99155-9895</string>
 </resources>
