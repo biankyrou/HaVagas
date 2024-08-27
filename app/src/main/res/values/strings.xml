@@ -28,12 +28,15 @@
     <string name="ano_de_conclusao">Ano de conclusão:</string>
     <string name="informe_o_ano_de_conclusao">Informe o ano de conclusão</string>
     <string name="instituicao">Instituição de ensino:</string>
-    <string name="informe_o_nome_da_instituicao">Informe o nome da Instituição de ensino</string>
+    <string name="informe_o_nome_da_instituicao">Informe o nome da Instituição de ensino:</string>
     <string name="titulo_monografia">Titulo da monografia:</string>
-    <string name="informe_o_titulo_da_sua_monografia">Informe o titulo da sua monografia</string>
+    <string name="informe_o_titulo_da_sua_monografia">Informe o titulo da sua monografia:</string>
     <string name="orientador">Orientador:</string>
-    <string name="informe_o_nome_do_seu_orientador">Informe o nome do seu orientador</string>
-
+    <string name="informe_o_nome_do_seu_orientador">Informe o nome do seu orientador:</string>
+    <string name="vagas_de_interesse">Vagas de Interesse:</string>
+    <string name="informe_vagas_de_interesse">Digite as vagas de interesse aqui</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
 
 
 </resources>
